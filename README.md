@@ -1,14 +1,6 @@
-## File Retrieval Engine (CSC 435 Programming Assignment 2 - Fall 2024)
-Jarvis College of Computing and Digital Media - DePaul University
+## File Retrieval Engine - Version 1
 
-**Student:** Reyna Royce  
-**Email:** rroyce@depaul.edu  
-**Solution Programming Language:** C++
-
-
-
-## What This Program Does
-
+**This Program Does:**
 
 This project implements a file retrieval engine that indexes text files in an input folder and performs search operations over the indexed data. The program supports the following:
 - Indexing a directory and reading files within it.
